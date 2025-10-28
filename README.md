@@ -91,7 +91,7 @@ Ideal para quem quer aprender a integrar APIs, tratar dados com Pandas e exporta
 ---
 
 ## 💡 Próximos passos
-- Reintroduzir a coleta de *audio features* (dançabilidade, energia, valência, etc.) com fallback.  
+- Introduzir a coleta de *audio features* (dançabilidade, energia, valência, etc.) com fallback.  
 - Integrar com **Apache Spark** para maior escala.  
 - Publicar painéis interativos com **Streamlit**/**Dash**.  
 - Criar um workflow de **CI** (GitHub Actions) para validação rápida (smoke tests).
